@@ -57,6 +57,7 @@
   { "id": "G23",  "nombres": "Sr. Rodrigo Gómez",        "lugares": 2 },
   { "id": "G24",  "nombres": "Sr. Gaspar Martinez",        "lugares": 2 },
   { "id": "G25",  "nombres": "Sr. César Armoa",        "lugares": 1 },
-  { "id": "G26",  "nombres": "Sra. Gloria Fernandez",        "lugares": 1 }
+  { "id": "G26",  "nombres": "Sra. Gloria Fernandez",        "lugares": 1 },
+  { "id": "G27",  "nombres": "Sr. Néstor Martinez",        "lugares": 2 }
 
 ]
